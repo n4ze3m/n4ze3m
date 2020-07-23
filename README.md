@@ -16,6 +16,6 @@
         
         'Favorite Lanaguages':'Python,Dart,JS and TS',
         
-        'Favorite Frameworks':'Flutter and react.js',
+        'Favorite Frameworks':'Flutter and react.js'
       }
     ]
