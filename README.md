@@ -1,6 +1,21 @@
-### Hi there, I'm Nazeem👋
+<h1 align="center">Muhammed Nazeem</h1>
 
-- 🌱 I’m currently learning Assembly language & Fortran
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-nazeem-5ab092180/) , [Twitter](https://twitter.com/JuventusRuling)
-- ⚡ Fun fact: i hate java
-<img src='https://github-readme-stats.vercel.app/api?username=nazeemnato&show_icons=true'/>
+    [
+      {
+        'name':'Muhammed Nazeem',
+        
+        'short_name':'Nazeem',
+        
+        'from':'Alappuzha,Kerala',
+        
+        'country':'India',
+        
+        'personal_mail':'n4ze3m@gmail.com',
+        
+        'Twitter':'JuventusRuling',
+        
+        'Favorite Lanaguages':'Python,Dart,JS and TS',
+        
+        'Favorite Frameworks':'Flutter and react.js',
+      }
+    ]
