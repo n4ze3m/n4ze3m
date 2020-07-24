@@ -14,8 +14,14 @@
         
         'Twitter':'JuventusRuling',
         
-        'Favorite Lanaguages':'Python,Dart,JS and TS',
+        'favorite Lanaguages':'Python,Dart,JS and TS',
         
-        'Favorite Frameworks':'Flutter and react.js'
+        'favorite Frameworks':'Flutter and react.js'
+        
+        'sports':'Football',
+        
+        'team':'Juventus FC',
+        
+        'player':'Pavel Nedved',
       }
     ]
