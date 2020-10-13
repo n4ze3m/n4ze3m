@@ -6,6 +6,10 @@
         
         'short_name':'Nazeem',
         
+        'company':'Buckthorn',
+        
+        'status': 'Co-Founder',
+        
         'from':'Alappuzha,Kerala',
         
         'country':'India',
