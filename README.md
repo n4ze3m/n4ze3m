@@ -8,11 +8,11 @@
   
   "from": " Alappuzha,Kerala",
   
-  "organisation" : "Buckthorn Dev",
+  "organizations" : "Buckthorn Dev, Flutter Challenges",
   
   "personal_mail": "n4ze3m@gmail.com",
   
-  "Twitter": "@JuventusRuling",
+  "twitter": "@JuventusRuling, @n4ze3m",
   
   "favorite_lanaguages": "Python, Dart, Js, TS, C, C++, PHP and Bash",
   
