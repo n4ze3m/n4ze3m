@@ -3,19 +3,34 @@
 ```json
 {
   "name": "Muhammed Nazeem",
-  
   "short_name": "Nazeem",
-  
   "from": " Alappuzha,Kerala",
-  
-  "organizations" : "Buckthorn Dev, Flutter Challenges",
-  
+  "organizations": [
+    {
+      "name": "Buckthorn Dev"
+    },
+    {
+      "name": "Flutter Challenges"
+    }
+  ],
   "personal_mail": "n4ze3m@gmail.com",
-  
-  "twitter": "@JuventusRuling, @n4ze3m",
-  
-  "favorite_lanaguages": "Python, Dart, Js, TS, C, C++, PHP and Bash",
-  
-  "favorite_frameworks": "Flutter and React JS"
+  "twitter": [
+    "@JuventusRuling",
+    " @n4ze3m"
+  ],
+  "favorite_lanaguages": [
+    "Python",
+    "Dart",
+    "JS",
+    "TS",
+    "C",
+    "C++",
+    "PHP",
+    "BASH"
+  ],
+  "favorite_frameworks": [
+    "Flutter",
+    "ReactJs"
+  ]
 }
 ````
