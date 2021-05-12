@@ -30,6 +30,7 @@
   ],
   "favorite_frameworks": [
     "Flutter",
+    "NextJs",
     "ReactJs"
   ]
 }
