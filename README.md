@@ -21,6 +21,7 @@
   "favorite_lanaguages": [
     "Python",
     "Dart",
+     "GO",
     "JS",
     "TS",
     "C",
