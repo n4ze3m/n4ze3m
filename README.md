@@ -4,7 +4,7 @@
 {
   "name": "Muhammed Nazeem",
   "short_name": "Nazeem",
-  "building": "cosum",
+  "building": "FormCrush",
   "organizations": [
     {
       "name": "Buckthorn Dev"
