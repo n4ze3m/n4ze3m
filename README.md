@@ -4,7 +4,7 @@
 {
   "name": "Muhammed Nazeem",
   "short_name": "Nazeem",
-  "building": "FormCrush",
+  "building": "keeppt",
   "organizations": [
     {
       "name": "Buckthorn Dev"
@@ -13,18 +13,21 @@
       "name": "Flutter Challenges"
     }
   ],
-  "twitter": [
-    "@n4ze3m"
+  "social": [
+    {
+      "twitter":"@n4ze3m"
+    }
   ],
   "favorite_lanaguages": [
-    "Python",
-    "Dart",
     "GO",
-    "JS",
-    "TS",
+    "TypeScript",
+    "Dart",
+    "JavaScript",
+    "Python",
     "C",
     "C++",
-    "BASH"
+    "BASH",
+    "Rust"
   ]
 }
 ````
