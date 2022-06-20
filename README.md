@@ -13,11 +13,9 @@
       "name": "Flutter Challenges"
     }
   ],
-  "social": [
-    {
+  "social": {
       "twitter":"@n4ze3m"
-    }
-  ],
+   },
   "favorite_lanaguages": [
     "GO",
     "TypeScript",
