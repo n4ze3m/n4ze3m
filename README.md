@@ -4,7 +4,7 @@
 {
   "name": "Muhammed Nazeem",
   "short_name": "Nazeem",
-  "building": "vesta",
+  "building": "Dialoqbase ⚡",
   "organizations": [
     {
       "name": "Buckthorn Dev"
