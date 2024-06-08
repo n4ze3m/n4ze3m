@@ -31,5 +31,4 @@
 ````
 
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://raw.githubusercontent.com/n4ze3m/n4ze3m/master/36bdaada-132d-4ff7-bc6d-45a3a1e33c19.jpeg');]{x0000}$}
+
